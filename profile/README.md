@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LateralThinkingMachine/.github/main/profile/assets/ltm-banner.png" alt="Lateral Thinking Machine(s) — long-term memory and context infrastructure for AI agents" width="100%">
+  <img src="https://raw.githubusercontent.com/LateralThinkingMachine/.github/main/profile/assets/ltm-banner-6000x2000.png" alt="Lateral Thinking Machine(s) — long-term memory and context infrastructure for AI agents" width="100%">
 </p>
 
 <h1 align="center">Memory for what comes next.</h1>
