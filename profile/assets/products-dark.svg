@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="224" role="img" aria-labelledby="title description">
+  <title id="title">AtoposDB and Enny</title>
+  <desc id="description">AtoposDB: The memory infrastructure. Our work on the database foundation for long-term memory and connected context. Enny: The memory companion. Our work on bringing long-term memory into everyday interactions.</desc>
+  <!-- Deliberately no root viewBox: percentage positions respond to the image viewport while text and icons keep their pixel size. -->
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; text-anchor: middle; fill: #F0F6FC; }
+    .name { font-size: 18px; font-weight: 600; }
+    .role { font-size: 14px; font-weight: 500; }
+    .copy { font-size: 14px; fill: #B1BAC4; }
+    .compact { display: none; }
+    @media (max-width: 560px) {
+      .name { font-size: 17px; }
+      .role { font-size: 12px; }
+      .copy { font-size: 13px; }
+      .wide { display: none; }
+      .compact { display: inline; }
+    }
+  </style>
+  <defs>
+    <symbol id="database" viewBox="0 0 24 24" fill="none" stroke="#F0F6FC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <ellipse cx="12" cy="5" rx="9" ry="3" />
+<path d="M3 5V19A9 3 0 0 0 21 19V5" />
+<path d="M3 12A9 3 0 0 0 21 12" />
+    </symbol>
+    <symbol id="orbit" viewBox="0 0 24 24" fill="none" stroke="#F0F6FC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M20.341 6.484A10 10 0 0 1 10.266 21.85" />
+<path d="M3.659 17.516A10 10 0 0 1 13.74 2.152" />
+<circle cx="12" cy="12" r="3" />
+<circle cx="19" cy="5" r="2" />
+<circle cx="5" cy="19" r="2" />
+    </symbol>
+  </defs>
+  <svg x="25%" y="12" width="32" height="32" overflow="visible"><use href="#database" x="-16" width="32" height="32"/></svg>
+  <svg x="75%" y="12" width="32" height="32" overflow="visible"><use href="#orbit" x="-16" width="32" height="32"/></svg>
+  <text x="25%" y="77" class="name">AtoposDB</text>
+  <text x="75%" y="77" class="name">Enny</text>
+  <text x="25%" y="105" class="role">The memory infrastructure.</text>
+  <text x="75%" y="105" class="role">The memory companion.</text>
+  <g class="wide copy">
+    <text x="25%" y="140" class="copy">Our work on the database foundation for</text>
+    <text x="25%" y="161" class="copy">long-term memory and connected context.</text>
+    <text x="75%" y="140" class="copy">Our work on bringing long-term memory</text>
+    <text x="75%" y="161" class="copy">into everyday interactions.</text>
+  </g>
+  <g class="compact copy">
+    <text x="25%" y="140" class="copy">Our work on the</text>
+    <text x="25%" y="160" class="copy">database foundation</text>
+    <text x="25%" y="180" class="copy">for long-term memory</text>
+    <text x="25%" y="200" class="copy">and connected context.</text>
+    <text x="75%" y="140" class="copy">Our work on bringing</text>
+    <text x="75%" y="160" class="copy">long-term memory</text>
+    <text x="75%" y="180" class="copy">into everyday</text>
+    <text x="75%" y="200" class="copy">interactions.</text>
+  </g>
+</svg>

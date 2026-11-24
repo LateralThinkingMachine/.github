@@ -11,28 +11,12 @@
 
 ## What we're building
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LateralThinkingMachine/.github/main/profile/assets/atoposdb-dark.svg">
-        <img src="https://raw.githubusercontent.com/LateralThinkingMachine/.github/main/profile/assets/atoposdb.svg" alt="Database icon" width="24" height="24">
-      </picture>
-      <h3>AtoposDB</h3>
-      <p><strong>The memory infrastructure.</strong></p>
-      <p>Our work on the database foundation for long-term memory and connected context.</p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LateralThinkingMachine/.github/main/profile/assets/enny-dark.svg">
-        <img src="https://raw.githubusercontent.com/LateralThinkingMachine/.github/main/profile/assets/enny.svg" alt="Enny orbit icon" width="24" height="24">
-      </picture>
-      <h3>Enny</h3>
-      <p><strong>The memory companion.</strong></p>
-      <p>Our work on bringing long-term memory into everyday interactions.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LateralThinkingMachine/.github/main/profile/assets/products-dark.svg">
+    <img src="https://raw.githubusercontent.com/LateralThinkingMachine/.github/main/profile/assets/products-light.svg" width="100%" height="224" alt="AtoposDB — The memory infrastructure. Our work on the database foundation for long-term memory and connected context. Enny — The memory companion. Our work on bringing long-term memory into everyday interactions.">
+  </picture>
+</p>
 
 ## Follow our progress
 
