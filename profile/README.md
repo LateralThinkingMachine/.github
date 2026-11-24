@@ -12,6 +12,7 @@
 ## What we're building
 
 <p align="center">
+  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LateralThinkingMachine/.github/main/profile/assets/products-dark.svg">
     <img src="https://raw.githubusercontent.com/LateralThinkingMachine/.github/main/profile/assets/products-light.svg" width="100%" height="224" alt="AtoposDB — The memory infrastructure. Our work on the database foundation for long-term memory and connected context. Enny — The memory companion. Our work on bringing long-term memory into everyday interactions.">
