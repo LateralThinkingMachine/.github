@@ -11,7 +11,7 @@ We're building a native temporal graph database for people and AI agents to carr
 
 **In development.** Explore the public technical introduction and development directions below.
 
-[Website](https://lateralthinkingmachines.ai/) · [Technical overview](https://lateralthinkingmachines.ai/overview/) · [Development roadmap](https://lateralthinkingmachines.ai/overview/#development-status) · [Developer repository](https://github.com/LateralThinkingMachine/atoposdb)
+[Website](https://lateralthinkingmachines.ai/) · [Technical overview](https://lateralthinkingmachines.ai/overview/) · [Development roadmap](https://lateralthinkingmachines.ai/overview/#development-status) · [Developer repository](https://github.com/LateralThinkingMachine/atoposdb) · [X (@atoposdb)](https://x.com/atoposdb)
 
 ## Explore AtoposDB
 
